@@ -1,2 +1,2 @@
-# CRIS_phage_display_S_exigua_raw_data
-Fastq files 
+# CRIS_phage_display_S_exigua_codes
+Codes to analyze phage display data 
